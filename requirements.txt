@@ -1,0 +1,9 @@
+flask==2.3.3
+python-dotenv
+google-generativeai
+pymongo[srv]
+openai
+python-telegram-bot==13.13
+urllib3
+youtube-transcript-api==0.6.2
+tiktoken==0.5.2
