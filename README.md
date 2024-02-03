@@ -25,7 +25,7 @@ SumVoiceAi is a Telegram bot that leverages the power of the **Gemini Google AI 
 
     ```bash
     git clone https://github.com/yousseftarhri/voiceai_bot.git
-    cd voicai_bot
+    cd voiceai_bot
     ```
 
 2. Install the required dependencies:
